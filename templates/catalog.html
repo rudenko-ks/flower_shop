@@ -19,7 +19,8 @@
                         </a>
                         {% cycle '' '' '</div>' %}
                     {% endfor %}
-					<button class="btn largeBtn catalog__btn">Показать ещё</button>
+                    {% include 'paginate.html' %}
+{#					<button class="btn largeBtn catalog__btn">Показать ещё</button>#}
 				</div>
 			</div>
 		</div>
