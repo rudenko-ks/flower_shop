@@ -4,7 +4,12 @@
 Подберем для вас букет за два шага, который идеально подойдет под вашу ситуацию.
 
 ## Пример работы сайта
-Посмотреть пример работы сайта можно посмотреть на [pythonanywhere.com](http://pyflowershop.pythonanywhere.com/)
+Посмотреть пример работы сайта можно на [pythonanywhere.com](http://pyflowershop.pythonanywhere.com/)
+
+Дополнительные страницы (доступны только авторизированным пользователям):
+- [Страница заказов](http://pyflowershop.pythonanywhere.com/admin-order/) 
+- [Заявки на консультацию](http://pyflowershop.pythonanywhere.com/admin-consultations/)
+
 
 ## Переменные окружения
 
